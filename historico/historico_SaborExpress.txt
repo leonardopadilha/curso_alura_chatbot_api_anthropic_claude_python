@@ -1,0 +1,56 @@
+
+    Histórico: 
+    Histórico: 
+    Histórico: 
+    Usuário: olá, como cadastro restaurante?
+    IA: Olá, obrigado por entrar em contato com a Sabor Express. Para cadastrar seu restaurante em nossa plataforma, siga estas etapas:
+
+1. Acesse o site oficial da Sabor Express.
+2. Selecione a opção "Cadastrar Restaurante" no menu principal.
+3. Crie uma conta ou faça login se já possuir uma.
+4. Preencha o formulário de cadastro com informações do seu restaurante.
+5. Envie os documentos necessários (CNPJ, comprovante de endereço, alvará de funcionamento e licença sanitária).
+6. Adicione seu cardápio completo.
+7. Configure as opções de entrega.
+8. Revise todas as informações e envie o cadastro.
+
+Após o envio, nossa equipe revisará as informações. Se aprovado, seu restaurante será ativado na plataforma.
+
+Para assistência durante o processo, contate nosso suporte técnico para restaurantes parceiros:
+Telefone: (11) 4000-5678
+E-mail: suporte.restaurantes@saborexpress.com
+
+Posso ajudar com mais alguma informação sobre o processo de cadastro?
+    
+    Usuário: que restaurante tem em Salvador?
+    IA: Em Salvador, temos alguns restaurantes parceiros cadastrados no Sabor Express. Um dos estabelecimentos que se destaca na cidade é:
+
+Marisqueira do Porto
+- Tipo de Cozinha: Portuguesa
+- Especialidades: Bacalhau à Brás, Arroz de Marisco, Pastéis de Nata
+
+Além disso, temos outro restaurante notável em Salvador:
+
+Panela de Barro
+- Tipo de Cozinha: Brasileira
+- Especialidades: Moqueca Baiana, Acarajé, Vatapá
+
+Estes restaurantes oferecem uma variedade de pratos típicos e especiais da culinária local e portuguesa. Lembre-se de que nossa lista de parceiros está sempre em expansão, então pode haver outros restaurantes disponíveis no aplicativo. Para ver todas as opções atualizadas em Salvador, recomendo que você acesse o aplicativo Sabor Express e insira seu endereço de entrega.
+
+Posso ajudar com mais alguma informação sobre os restaurantes em Salvador ou sobre o serviço do Sabor Express?
+    
+    Usuário: sobre o que conversamos agora?
+    IA: Conversamos sobre os restaurantes parceiros do Sabor Express disponíveis em Salvador. Especificamente, mencionei dois estabelecimentos:
+
+1. Marisqueira do Porto:
+   - Especializado em culinária portuguesa
+   - Oferece pratos como Bacalhau à Brás, Arroz de Marisco e Pastéis de Nata
+
+2. Panela de Barro:
+   - Foca na culinária brasileira, especialmente pratos baianos
+   - Serve especialidades como Moqueca Baiana, Acarajé e Vatapá
+
+Informei também que a lista de parceiros está em constante expansão e recomendei verificar o aplicativo Sabor Express para obter a lista mais atualizada de restaurantes disponíveis para entrega em Salvador.
+
+Posso fornecer mais informações sobre esses restaurantes ou sobre outros aspectos do serviço Sabor Express em Salvador?
+    
