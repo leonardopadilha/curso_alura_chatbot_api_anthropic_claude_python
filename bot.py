@@ -5,6 +5,7 @@ from helpers import *
 from identificar_persona import *
 from identificar_contexto import *
 from analisador_de_imagens import *
+from tools import *
 
 dotenv.load_dotenv()
 cliente = anthropic.Anthropic(
@@ -48,6 +49,7 @@ def bot(prompt, historico, caminho_da_imagem):
             max_tokens=4000,
             temperature=0,
             system=prompt_do_sistema,
+            tools=ferramentas,
             messages=[
                 {
                     "role": "user",
