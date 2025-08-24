@@ -62,6 +62,9 @@ def processa_chamada_de_ferramenta(nome_da_ferramenta, input_da_ferramenta):
   elif nome_da_ferramenta == "cancela_pedido":
     return cancela_pedido(input_da_ferramenta["codigo_pedido"])
 
+"""
+A função abaixo foi para teste, a intenção foi validar como estava funcionando a chamada de ferramenta.
+
 def chamar_ferramenta(prompt):
     prompt_do_usuario = prompt
 
@@ -129,7 +132,7 @@ def chamar_ferramenta(prompt):
         print(f"Um erro {e.status_code} foi recebido. Mais informações: {e.response}")
     except Exception as e:
         print(f"Ocorreu um erro inesperado: {e}")
-
+"""
 
 #prompt = "Qual é o status do pedido C001?"
 #chamar_ferramenta(prompt)
